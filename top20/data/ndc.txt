@@ -1,0 +1,6 @@
+Minimum value: 1
+Maximum value: 163
+Mean value: 4.658560311284047
+Median value: 4.0
+Standard deviation: 5.554754834126506
+Variance value: 30.855301267251786
